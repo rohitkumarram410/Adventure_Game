@@ -1,4 +1,4 @@
-# 🎮 2D Adventure Game in Java
+# 🎮 2D Adventure Game
 
 **🚀 Dive into an action-packed 2D world built with Java & JavaFX!**
 
